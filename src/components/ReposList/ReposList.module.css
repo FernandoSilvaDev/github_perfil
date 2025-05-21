@@ -24,3 +24,12 @@
     padding: 8px;
     text-decoration: none;
 }
+
+.error {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: #eb4d4b;
+    font-weight: bold;
+    padding-bottom: 16px;
+}

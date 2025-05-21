@@ -17,4 +17,5 @@ header {
 .name {
     padding-top: 16px;
     font-size: 18px;
+    color: var(--corSecundaria);
 }

@@ -1,0 +1,17 @@
+.nomeUsuario {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 32px;
+    padding-bottom: 16px;
+    background-color: var(--corPrincipal);
+}
+
+input {
+  width: 300px; /* Define a largura */
+  height: 40px; /* Define a altura */
+  font-size: 18px;
+  color: gray;
+  font-style: italic;
+  text-align: center;
+}
